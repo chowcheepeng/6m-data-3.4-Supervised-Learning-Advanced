@@ -40,7 +40,7 @@
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://flexfengfeng.github.io/dsai-m3-l04-learner/) |
+| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.4-Supervised-Learning-Advanced/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) — Core sections only |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section + the Kaggle assignment |
 
@@ -50,7 +50,7 @@
 
 ## Your learning path
 
-### Phase 1 — Before class: self-study (~25 min)
+### Phase 1 — Before class: self-study (~30 min)
 
 **Goal:** Understand bagging vs boosting at the conceptual level. Arrive at class ready to compare algorithms.
 
@@ -67,7 +67,7 @@ You will:
 
 **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, model-shipping checklist, L05→L10 course map)
 
-**Interactive walkthrough →** the [**key concepts page**](https://flexfengfeng.github.io/dsai-m3-l04-learner/) (hosted on GitHub Pages) gives an in-browser tour of the core ideas.
+**Interactive walkthrough →** the [**key concepts page**](https://su-ntu-ctp.github.io/6m-data-3.4-Supervised-Learning-Advanced//) (hosted on GitHub Pages) gives an in-browser tour of the core ideas.
 
 **Notebooks — run in order:**
 
@@ -120,12 +120,12 @@ Optional material lives in [`notebooks/optional_extensions.ipynb`](./notebooks/o
 ```
 README.md                              ← You are here
 setup.md                               ← One-time environment setup (same dsai-m3 env)
-pre-class.md                           ← Phase 1: 75-min self-study guide
+pre-class.md                           ← Phase 1: 30-min self-study guide
 lesson.md                              ← Short reference: overview, takeaways, model-shipping checklist, course map
 reference.md                           ← Phase 3: Further reading + glossary
 environment.yml                        ← Conda environment spec (no new packages vs L03)
 docs/
-  index.html                           ← Interactive key-concepts walkthrough (served at https://flexfengfeng.github.io/dsai-m3-l04-learner/ via GitHub Pages)
+  index.html                           ← Interactive key-concepts walkthrough (served at https://su-ntu-ctp.github.io/6m-data-3.4-Supervised-Learning-Advanced/ via GitHub Pages)
 notebooks/
   data/
     northstar_churn.csv                ← Same dataset as L03 (story continuity)
